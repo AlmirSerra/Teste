@@ -32,6 +32,7 @@ npm run build
 # Backend
 
 Necessário o PHP 8 para execução das funções
+
 Para o arquivo JS, acesse a pasta do arquivo e rode o comando
 
 ```sh
