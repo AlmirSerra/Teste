@@ -1,0 +1,207 @@
+[
+  {
+    "data": "16/09/2022",
+    "product": "Açúcar - Santos",
+    "value": 124.85
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Açúcar - SP",
+    "value": 123.90
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Algodão",
+    "value": 617.62
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Arroz",
+    "value": 76.39
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Bezerro - SP",
+    "value": 2631.77
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Café Arábica",
+    "value": 1270.42
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Boi Gordo",
+    "value": 294.55
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Citros",
+    "value": 39.69
+  },
+  {
+    "data": "08/04/2022",
+    "product": "Etanol Anidro - PE",
+    "value": 4.0033
+  },
+  {
+    "data": "13/05/2022",
+    "product": "Etanol Anidro - AL",
+    "value": 4.0017
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Etanol Anidro - MT",
+    "value": 2489.40
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Etanol Anidro - SP",
+    "value": 2.8378
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Etanol Hidratado - AL",
+    "value": 2.147
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Etanol Hidratado - GO",
+    "value": 2.4751
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Etanol Hidratado - MT",
+    "value": 2865.00
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Etanol Hidratado - PE",
+    "value": 2.2313
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Etanol Hidratado - SP",
+    "value": 2.3819
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Frango Congelado",
+    "value": 8.16
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Frango Resfriado",
+    "value": 8.15
+  },
+  {
+    "data": "08/2022",
+    "product": "Leite",
+    "value": 3.5707
+  },
+  {
+    "data": "05/09/2022",
+    "product": "Mandioca",
+    "value": 945.04
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Milho",
+    "value": 84.35
+  },
+  {
+    "data": "07/2022",
+    "product": "Ovino - CE",
+    "value": 0
+  },
+  {
+    "data": "08/2022",
+    "product": "Ovino - MS",
+    "value": 11.50
+  },
+  {
+    "data": "08/2022",
+    "product": "Ovino - MT",
+    "value": 10.75
+  },
+  {
+    "data": "08/2022",
+    "product": "Ovino - PR",
+    "value": 13.25
+  },
+  {
+    "data": "08/2022",
+    "product": "Ovino - RS",
+    "value": 10.00
+  },
+  {
+    "data": "08/2022",
+    "product": "Ovino - SP",
+    "value": 12.33
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Ovos",
+    "value": 151.28
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Soja - PR",
+    "value": 181.66
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Soja Paranaguá",
+    "value": 186.92
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Suíno - MG",
+    "value": 6.96
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Suíno - PR",
+    "value": 6.36
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Suíno - RS",
+    "value": 6.37
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Suíno - SC",
+    "value": 6.29
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Suíno - SP",
+    "value": 6.91
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Tilápia - Grandes Lagos",
+    "value": 7.83
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Tilápia - Norte do Paraná",
+    "value": 8.03
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Tilápia - Oeste do Paraná",
+    "value": 7.80
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Trigo - PR",
+    "value": 1700.92
+  },
+  {
+    "data": "16/09/2022",
+    "product": "Trigo - RS",
+    "value": 1745.79
+  }
+]
