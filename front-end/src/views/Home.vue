@@ -1,14 +1,14 @@
 <script setup>
 import Banner from '../components/Banner.vue'
-
 import Card from '../components/Card.vue'
+import ContactForm from '../components/ContactForm.vue'
+import Footer from './Footer.vue'
 
 </script>
 
 <template>
   <div class="main">
     <Banner />
-    <SectionTitle />
     <Card />
     <ContactForm />
     <Footer />

@@ -31,9 +31,8 @@ header {
   flex-direction: column;
   align-items: flex-start;
   padding: 0px;
-
   position: absolute;
-  width: 1440px;
+  width: 100%;
   height: 2922px;
 
   /* Light Grey */

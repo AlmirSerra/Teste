@@ -1,0 +1,388 @@
+  .frame-123{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 40px;
+    width: 1440px;
+    height: 707px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    position: relative;
+  }
+  .frame-67{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 10px;
+
+    width: 1354px;
+    height: 10px;
+  }
+  .frame-54{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 82px;
+
+    width: 694.27px;
+    height: 301px;
+  }
+  .frame-21{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+
+    width: 405px;
+    height: 82px;
+  }
+  .frame-18{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 13px;
+
+    width: 1090px;
+    height: 127px;
+  }
+  #headline{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+    color: #00385F;
+  }
+  .rectangle{
+    width: 129px;
+    height: 5px;
+    background: #F2C917;
+    border-radius: 50px;
+    display: flex;
+  }
+  .form-text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+
+    width: 405px;
+    height: 301px;
+  }
+  .ilustration{
+    width: 207.27px;
+    height: 189.5px;
+  }
+  .mail-input{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    width: 339px;
+    height: 48px;
+  }
+  .mail-input input{
+    padding: 14px 16px;
+    gap: 10px;
+    width: 248px;
+    height: 48px;
+    background: #F4F5F7;
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #474A57;
+  }
+  .mail-input2{
+    padding: 0px;
+    width: 336px;
+    height: 131px;
+  }
+  .mail-input2 input{
+    padding: 14px 16px;
+    gap: 10px;
+    border: none;
+    width: 336px;
+    height: 131px;
+    margin-top: 20px;
+    background: #F4F5F7;
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #474A57;
+  }
+  .btn-submit{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 14px 24px;
+    gap: 10px;
+    width: 91px;
+    height: 48px;
+    background: #F2C917;
+    border-radius: 0px 5px 5px 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #FFFFFF;
+    position: relative;
+  }
+  .frame-17{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0px 0px;
+    gap: 40px;
+    width: 1440px;
+    height: 1245px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    position: relative;
+  }
+  .frame-124{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+    width: 1440px;
+    height: 502px;
+  }
+  .frame-125{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+
+    width: 1440px;
+    height: 502px;
+  }
+  .card{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 84px;
+    width: 390.49px;
+    height: 502px;
+    border: none;
+  }
+  .frame-116{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 20px;
+    gap: 10px;
+    width: 390.49px;
+    height: 502px;
+    background: #F2C917;
+    border-radius: 28px;
+  }
+  .frame-115{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 20px;
+    gap: 10px;
+    width: 390.49px;
+    height: 502px;
+    background: #28E4C9;
+    border-radius: 28px;
+  }
+  .frame-114{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 20px;
+    gap: 10px;
+    width: 390.49px;
+    height: 502px;
+    background: #2A95FF;
+    border-radius: 28px;
+  }
+  .card-minor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 18px;
+    width: 350.49px;
+    height: 462px;
+  }
+  .group-10 {
+    position: absolute;
+    width: 218.48px;
+    height: 232.88px;
+    left: -82.94px;
+    top: 339.69px;
+    transform: rotate(15deg);
+  }
+  .group-10 img{
+    left: 7.64%;
+    right: 84.68%;
+    top: 64.94%;
+    bottom: 5.61%;
+    transform: matrix(-0.59, -0.81, -0.81, 0.59, 0, 0);
+  }
+  .mask-group{
+    position: absolute;
+    width: 591px;
+    height: 818.97px;
+    left: 705px;
+    top: 70px;
+  }
+  .banner{
+    position: absolute;
+    width: 1229.08px;
+    height: 818.97px;
+    background: url('../assets/happiness-wellbeing-confidence-concept-cheerful-attractive-african-american-woman-curly-haircut-cross-arms-chest-self-assured-powerful-pose-smiling-determined-wear-yellow-sweater 2.png');
+    border-radius: 158px;
+    background-repeat: no-repeat;
+  }
+  .banner-img-rectangle{
+    position: absolute;
+    width: 591px;
+    height: 818.97px;
+    left: 705px;
+    top: 70px;
+    border-radius: 158px;
+ }
+ .btn-md{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 40px;
+    gap: 10px;
+    width: 163px;
+    height: 52px;
+    background: #F2C917;
+    border-radius: 16px;
+ }
+ .btn-text{
+    width: 83px;
+    height: 22px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+ }
+ .frame-8{
+  width: 1440px;
+  height: 714px;
+  background: #FFFFFF;
+  border-radius: 4px;
+  flex: none;
+}
+.group-2{
+  position: absolute;
+  width: 443px;
+  height: 276px;
+  left: 155px;
+  top: 241px;
+}
+.frame-5{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 10px;
+  gap: 32px;
+  width: 516px;
+  height: 48px;
+}
+.frame-11{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  width: 75px;
+  height: 28px;
+}
+.footer{
+  flex: none;
+  position: absolute;
+  width: 1440px;
+  height: 256px;
+  background: linear-gradient(202.06deg, #F2C917 14.42%, #FFB800 77.68%);
+}
+.logo2{
+  position: absolute;
+  width: 184px;
+  height: 62px;
+  left: 43.61%;
+  right: 43.61%;
+  top: 11.33%;
+  bottom: 64.45%;
+  background: url('../assets/Logotipo 2.png');
+  background-repeat: no-repeat;
+}
+.group-55{
+  position: absolute;
+  width: 181px;
+  height: 20px;
+  left: 165px;
+  top: 213px;
+}
+.group-55 label{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #fff;
+}
+.link a{
+  width: 75px;
+  height: 24px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #00385F;
+  text-decoration: none;
+}
+.frame-16{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 10px;
+  gap: 32px;
+
+  width: 516px;
+  height: 44px;
+
+}

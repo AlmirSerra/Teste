@@ -21,30 +21,7 @@ import Logo from './Logo.vue'
   </div>
 </template>
 
-<style scoped>
-  .frame-5{
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    padding: 10px;
-    gap: 32px;
-    width: 516px;
-    height: 48px;
-  }
- .link a{
-    width: 75px;
-    height: 24px;
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 24px;
-    text-align: center;
-    letter-spacing: 0.2px;
-    color: #00385F;
-    text-decoration: none;
-  }
-  
+<style scoped>  
   .frame-9{
     display: flex;
     flex-direction: row;
@@ -65,14 +42,6 @@ import Logo from './Logo.vue'
     right: 13.54%;
     top: 13.54%;
     bottom: 13.54%;
-  }
-  .frame-11{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 0px;
-    width: 75px;
-    height: 28px;
   }
   #rectangle-592{
     width: 75px;
